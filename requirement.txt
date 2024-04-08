@@ -1,0 +1,2 @@
+git commit -m "folder structure updated" : It is used to commit files in git
+How to add files in our git repog
