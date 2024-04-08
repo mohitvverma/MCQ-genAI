@@ -1,1 +1,7 @@
+langchain
+PyPDF2
+AI21
 
+
+# The setup.py is our local package need to install by using pip install setup.py
+# To check the logger working, use this command "python tester.py", It make a new directory named as logs
